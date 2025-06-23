@@ -105,7 +105,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://ejiogumercy.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
