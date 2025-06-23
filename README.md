@@ -38,7 +38,7 @@ I specialize in transforming raw data into actionable insights using tools like 
 
 - Focused on building meaningful connections that generate qualified leads.
 
-##🌟 **Soft Skills**
+🌟 **Soft Skills**
 - **Communication**: Clear, professional, and client-centered in written and verbal interactions.
 
 - **Problem-Solving**: Quick to identify issues and provide practical, data-backed solutions.
