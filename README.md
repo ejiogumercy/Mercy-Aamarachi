@@ -1,1 +1,1 @@
-# Mercy-Aamarachi
+# Mercy-Amarachi
