@@ -8,7 +8,7 @@ I specialize in transforming raw data into actionable insights using tools like 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As the Lead Data & Operations Analyst at SOLBRILTEST, I help online businesses uncover data-driven opportunities, streamline their workflows, and deliver exceptional customer experiences.*
 
 **- ✅Data Analysis & Visualization.**
 - Proficient in Excel, Power BI, and SQL for cleaning, analyzing, and visualizing data.
@@ -17,28 +17,28 @@ I specialize in transforming raw data into actionable insights using tools like 
 
 - Comfortable with data modeling, storytelling, and creating client-friendly reports. 
 
-**- 🛒 E-commerce Customer Service.**
+**- ✅ E-commerce Customer Service.**
 - Experienced in order processing, product inquiries, dispute resolution, and customer follow-ups via platforms like Shopify, WooCommerce, and HubSpot.
 
 - Committed to providing fast, friendly, and solution-oriented support that improves customer satisfaction.
 
 - Skilled in using CRM and ticketing tools such as Zendesk and Freshdesk.
   
-**- 📬 Administrative Virtual Assistance.**
+**- ✅ Administrative Virtual Assistance.**
 - Efficient in managing emails, calendars, and project coordination tasks.
 
 - Experienced with tools like Google Workspace, Microsoft Office, Notion, and Trello.
 
 - Reliable and resourceful in supporting daily operations and executive tasks remotely.
 
-**- 💼 LinkedIn Lead Generation.**
+**- ✅ LinkedIn Lead Generation.**
 - Skilled in B2B lead research, LinkedIn Sales Navigator, and outreach strategy.
 
 - Adept at identifying target prospects, crafting personalized messages, and maintaining CRM pipelines using tools like Lusha, Apollo, and HubSpot.
 
 - Focused on building meaningful connections that generate qualified leads.
 
-##🌟 Soft Skills
+🌟 ## Soft Skills
 - **Communication**: Clear, professional, and client-centered in written and verbal interactions.
 
 - **Problem-Solving**: Quick to identify issues and provide practical, data-backed solutions.
@@ -93,27 +93,27 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:obiamara627@gmail.com">obiamara627@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 816-155-1321</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Awka, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://ejiogumercy.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/mercy-amarachi-ejiogu">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.youtube.com/@anyamercyamarachi4973">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
