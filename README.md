@@ -11,10 +11,49 @@ I specialize in transforming raw data into actionable insights using tools like 
 *As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
 **- ✅Data Analysis & Visualization.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+- Proficient in Excel, Power BI, and SQL for cleaning, analyzing, and visualizing data.
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+- Strong in building dynamic dashboards, performing trend analysis, and presenting insights that inform business decisions.
+
+- Comfortable with data modeling, storytelling, and creating client-friendly reports. 
+
+**- 🛒 E-commerce Customer Service.**
+- Experienced in order processing, product inquiries, dispute resolution, and customer follow-ups via platforms like Shopify, WooCommerce, and HubSpot.
+
+- Committed to providing fast, friendly, and solution-oriented support that improves customer satisfaction.
+
+- Skilled in using CRM and ticketing tools such as Zendesk and Freshdesk.
+  
+**- 📬 Administrative Virtual Assistance.**
+- Efficient in managing emails, calendars, and project coordination tasks.
+
+- Experienced with tools like Google Workspace, Microsoft Office, Notion, and Trello.
+
+- Reliable and resourceful in supporting daily operations and executive tasks remotely.
+
+**- 💼 LinkedIn Lead Generation.**
+- Skilled in B2B lead research, LinkedIn Sales Navigator, and outreach strategy.
+
+- Adept at identifying target prospects, crafting personalized messages, and maintaining CRM pipelines using tools like Lusha, Apollo, and HubSpot.
+
+- Focused on building meaningful connections that generate qualified leads.
+
+##🌟 Soft Skills
+- **Communication**: Clear, professional, and client-centered in written and verbal interactions.
+
+- **Problem-Solving**: Quick to identify issues and provide practical, data-backed solutions.
+
+- **Attention to Detail**: Consistently accurate in data entry, reporting, and client communication.
+
+- **Time Management**: Able to juggle multiple tasks and meet deadlines without compromising quality.
+
+- **Adaptability**: Comfortable with shifting priorities and learning new tools or systems as needed.
+
+- **Team Collaboration**: Experience working in cross-functional teams, remotely and in-office.
+
+- **Customer Empathy**: Skilled in understanding client needs and creating a positive user experience.
+
+
 
 
 <!--Section 2: List 3-4 key projects-->
