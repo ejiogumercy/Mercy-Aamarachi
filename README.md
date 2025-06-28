@@ -67,7 +67,7 @@ I specialize in transforming raw data into actionable insights using tools like 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 
-[Read More](README.md)
+[Read More]([README.md](https://github.com/ejiogumercy/COFFEE-SHOP/tree/main))
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
